@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cagatay</h1>
-<h3 align="center">A passionate iOS developer from Turkey with a background in SEO and WordPress development, transitioning into mobile app development.</h3>
-
-- 🌱 I’m currently learning **UIKit, Swift**
-
-- 💬 Ask me about **iOS Dev.**
-
-- 📫 How to reach me **ahmetcagataygunaydin@gmail.com**
-
-- 📄 Know about my experiences [#](#)
+<h3 align="center">I am a self-motivated Jr. iOS Developer with a background in ASO and a strong interest in product thinking. I’ve successfully published 3 apps on the App Store and enjoy designing simple, user-friendly UX flows.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
